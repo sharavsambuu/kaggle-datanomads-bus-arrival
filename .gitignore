@@ -4,3 +4,5 @@ env
 data
 out
 checkpoints
+checkpoints_time_embedding
+*.npy
