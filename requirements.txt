@@ -50,8 +50,11 @@ pandocfilters==1.4.2
 parso==0.6.2
 pexpect==4.8.0
 pickleshare==0.7.5
+<<<<<<< HEAD
 pkg-resources==0.0.0
 plotly==4.5.4
+=======
+>>>>>>> 7a97d90656b7f939a30645173c785b6dab489302
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 protobuf==3.11.3
