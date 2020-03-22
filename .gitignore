@@ -6,3 +6,4 @@ out
 checkpoints
 checkpoints_time_embedding
 *.npy
+catboost_info/
