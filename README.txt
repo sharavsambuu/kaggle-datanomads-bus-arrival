@@ -8,3 +8,6 @@
 # Sequence model, BusSeqNet
   https://colab.research.google.com/drive/1Selt5Bfc_dxi3CaC2sX8Zv7vSXPqFshL
 
+
+# Catboost training
+https://colab.research.google.com/drive/1sRUvdnXX943s5IknXfX-vwCIZNDp54Ht
