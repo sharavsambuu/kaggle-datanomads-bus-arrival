@@ -5,6 +5,7 @@ data
 out
 checkpoints
 checkpoints_time_embedding
+busnet_checkpoints/
 *.npy
 catboost_info/
 .ipynb_checkpoints/
