@@ -9,3 +9,5 @@ busnet_checkpoints/
 *.npy
 catboost_info/
 .ipynb_checkpoints/
+catboost_10000
+busnet_pickles
